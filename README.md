@@ -13,7 +13,6 @@ Com os problemas que o senhor Agnello está tendo em querer saber dos novos dado
 
 # Link do Wokwi do ESP-32 com o DHT e o LDR:
 
-# O Código que foi utilizado do ESP-32
+# O Código que foi utilizado do ESP-32:
 
-# O Arquivo do Fiware
-
+# O Arquivo do Fiware:
