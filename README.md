@@ -12,9 +12,8 @@ Com os problemas que o senhor Agnello está tendo em querer saber dos novos dado
 # Link do Wokwi do ESP-32 com o DHT e o LDR:
 https://wokwi.com/projects/411456216168054785
 
-# Link do Docs com o codigo do esp32:
-https://docs.google.com/document/d/1SwmOv2djEohgIAeBs9eJNXgwSAeTrIznBXhIlpUdEDM/edit?usp=sharing
+# Link do PDF com o Tutorial:
 
-# O Link do 
-Arquivo do Fiware:
+
+# O Link do Arquivo do Fiware (Fabio Carini):
 https://github.com/fabiocabrini/fiware
